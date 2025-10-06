@@ -7,6 +7,7 @@ class BankAccount {
             System.out.println("Deposited: " + amount);
         } else {
             System.out.println("Invalid deposit amount");
+        
         }
     }
 
